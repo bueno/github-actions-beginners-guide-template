@@ -1,2 +1,3 @@
-# github-actions-guide
-This is my GitHub Repository to support my course Unreal CI/CD with GitHub Actions
+# github-actions-beginners-guide-template
+
+This is my GitHub repository to support my free course "Unreal CI/CD with GitHub Actions for beginners".
