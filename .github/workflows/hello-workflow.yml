@@ -8,7 +8,7 @@ jobs:
         run: echo "Hello GitHub Actions! I am your workflow. Nice to meet you."
       - name: Say Nice to meet you
         run: echo "I know who you are, but nice to meet you too."
+      - name: Say See you later
+        run: echo "See you soon later. Bye!"
       - name: Say Goodbye
-        run: echo "Goodbye!
-      
-    
+        run: echo "Goodbye!"
